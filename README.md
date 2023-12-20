@@ -10,6 +10,7 @@ Hi, I'm Jeff Rolland. I'm a mechanical engineering co-op at Copeland Corporation
 |-----:|-----------|
 |     1| R/R Shiny |
 |     2| Python    |
-|     3| C/C++     |
-|     4| MATLAB    |
-|     5| Mathematica    |
+|     3| MATLAB    |
+|     4| Mathematica    |
+|     5| C/C++     |
+
